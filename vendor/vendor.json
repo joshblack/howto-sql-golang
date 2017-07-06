@@ -1,0 +1,43 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "g/V4qrXjUGG9B+e3hB+4NAYJ5Gs=",
+			"path": "github.com/gorilla/context",
+			"revision": "08b5f424b9271eedf6f9f0ce86cb9396ed337a42",
+			"revisionTime": "2016-08-17T18:46:32Z"
+		},
+		{
+			"checksumSHA1": "D1BVROe0MVJEDgm++mv1iVQ6+80=",
+			"path": "github.com/gorilla/mux",
+			"revision": "8c683ee571b6ee7ffc9f1cafd13103c422e71cbf",
+			"revisionTime": "2017-06-21T21:27:26Z"
+		},
+		{
+			"checksumSHA1": "gWlw0l2wMBLhmejJCTr/Zywqyk8=",
+			"path": "github.com/kelseyhightower/envconfig",
+			"revision": "70f0258d44cbaa3b6a2581d82f58da01a38e4de4",
+			"revisionTime": "2017-05-23T19:07:22Z"
+		},
+		{
+			"checksumSHA1": "VJDuatYxl/n0ngdtHaFsnWuyLCE=",
+			"path": "github.com/mattes/migrate",
+			"revision": "da4160ce04a9558d427373b13e3faed47deedc30",
+			"revisionTime": "2017-06-21T04:52:00Z"
+		},
+		{
+			"checksumSHA1": "6QePtWUFN9x9U/Y6OzcENUUudmM=",
+			"path": "github.com/mattes/migrate/database",
+			"revision": "da4160ce04a9558d427373b13e3faed47deedc30",
+			"revisionTime": "2017-06-21T04:52:00Z"
+		},
+		{
+			"checksumSHA1": "kIHQkF+Nm0LBPppYbchll3njidY=",
+			"path": "github.com/mattes/migrate/source",
+			"revision": "da4160ce04a9558d427373b13e3faed47deedc30",
+			"revisionTime": "2017-06-21T04:52:00Z"
+		}
+	],
+	"rootPath": "github.com/joshblack/howto-sql-golang"
+}
